@@ -4,7 +4,7 @@ import com.projecto.crud.micrud.entity.Usuario;
 import com.projecto.crud.micrud.Service.Usuarioservice;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotati
+import org.springframework.web.bind.annotation.*;
 import java.util.List;
 import java.util.Optional;
 
